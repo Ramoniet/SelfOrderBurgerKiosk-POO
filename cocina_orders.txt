@@ -1,0 +1,76 @@
+
+Nº Pedido: 1
+Productos:
+- COCA COLA NORMAL 1,50€
+- Menu: ANGUS, COCA COLA NORMAL, ALITAS 17,20€
+- Menu: ANGUS, COCA COLA NORMAL, ALITAS 17,20€
+- ALITAS 0,00€
+Precio total del pedido: 35,90€
+--------------
+
+Nº Pedido: 1
+Productos:
+- Menu: ANGUS, COCA COLA NORMAL, ALITAS 17,20€
+- Menu: ANGUS, COCA COLA NORMAL, ALITAS 17,20€
+- ALITAS 0,00€
+- ALITAS 0,00€
+- ALITAS 0,00€
+- ALITAS 0,00€
+- ALITAS 0,00€
+- ALITAS 0,00€
+- ALITAS 0,00€
+- ALITAS 0,00€
+- ALITAS 0,00€
+Precio total del pedido: 34,40€
+--------------
+
+Nº Pedido: 1
+Productos:
+- Menu: ANGUS, COCA COLA NORMAL, ALITAS 17,20€
+- Menu: ANGUS, COCA COLA NORMAL, ALITAS 17,20€
+- Menu: ANGUS, COCA COLA NORMAL, ALITAS 17,20€
+- ALITAS 0,00€
+Precio total del pedido: 51,60€
+--------------
+
+Nº Pedido: 2
+Productos:
+- ANGUS 20,00€
+- POLLO 15,00€
+- POLLO 15,00€
+- POLLO 15,00€
+- POLLO 15,00€
+- POLLO 15,00€
+- POLLO 15,00€
+- POLLO 15,00€
+Precio total del pedido: 125,00€
+--------------
+
+Nº Pedido: 1
+Productos:
+- ANGUS 20,00€
+- ANGUS 20,00€
+- ANGUS 20,00€
+- ANGUS 20,00€
+Precio total del pedido: 80,00€
+--------------
+
+Nº Pedido: 2
+Productos:
+- Menu: ANGUS, COCA COLA NORMAL, ALITAS 20,40€
+- Menu: GALLEGA, FANTA, PATATAS_SUPREME 18,40€
+- NUGGETS 0,00€
+Precio total del pedido: 38,80€
+--------------
+
+Nº Pedido: 1
+Productos:
+- ANGUS 20,00€
+- ANGUS 20,00€
+- ANGUS 20,00€
+- ANGUS 20,00€
+- ANGUS 20,00€
+- ANGUS 20,00€
+- ANGUS 20,00€
+Precio total del pedido: 140,00€
+--------------
