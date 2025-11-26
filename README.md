@@ -6,8 +6,6 @@
 
 Este proyecto implementa una simulación de un **kiosco de autoservicio para una hamburguesería** (estilo McDonald's). El sistema guía al usuario a través de una interfaz gráfica interactiva que permite seleccionar el idioma, navegar por el catálogo de productos, personalizar menús, gestionar el pedido y finalizar la compra mediante una pasarela de pago simulada.
 
-El proyecto destaca por su arquitectura modular basada en el patrón de diseño **State** (para la gestión de pantallas) y el uso de **Estrategias** para la gestión de productos y menús.
-
 ---
 
 ## ⚙️ Requisitos y Configuración
